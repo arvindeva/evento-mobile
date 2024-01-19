@@ -7,7 +7,7 @@ import { StyleSheet, Text, TextInput, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>!!!BUTdsadaTERS!!</Text>
+      <Text>Login!</Text>
       <StatusBar style="auto" />
       <TextInput
         style={styles.input}
